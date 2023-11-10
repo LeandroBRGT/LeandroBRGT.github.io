@@ -1,0 +1,32 @@
+.textoCaixas {
+    color: white;
+}
+
+.caixa1 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+}
+
+.caixa2 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    padding: 25px;
+}
+
+.caixa3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    padding: 25px;
+}
+
+.container {
+    margin: 300px;
+}

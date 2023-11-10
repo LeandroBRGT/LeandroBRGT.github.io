@@ -1,0 +1,15 @@
+.bloco {
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    display: block;
+}
+
+.linha{
+    display: inline;
+    background-color: teal;
+    color: yellow;
+    padding: 5px;
+    margin: 5px;
+}

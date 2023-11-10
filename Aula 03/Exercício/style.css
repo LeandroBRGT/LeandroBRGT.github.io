@@ -1,0 +1,12 @@
+.primeiro{
+    display: block;
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+}
+
+.segundo{
+    display: inline;
+    background-color: aquamarine;
+    text-align: center;
+}
